@@ -8,11 +8,34 @@ body {
 	background-color: #dbe6c9;
 }
 
-.contact {
+.link {
 	text-decoration: none;
 	color: #6c995e;
 }
 
-.contact:hover {
+.link:hover {
 	color: #22391b;
+}
+
+.card-title {
+	margin-bottom: 0.7rem;
+}
+
+.card-text {
+	font-size: 0.9rem;
+}
+
+.card-btn {
+	background-color: #d9e7c5;
+	font-weight: bold;
+	color: #22391b;
+}
+
+.card-btn:hover {
+	color:#22391b; 
+}
+
+.card-img {
+	width: 75%;
+	place-self: center;
 }
