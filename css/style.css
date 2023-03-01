@@ -25,6 +25,11 @@ body {
 	font-size: 0.9rem;
 }
 
+.card-text-now {
+	color : red;
+	font-size: 0.9rem;
+}
+
 .card-btn {
 	background-color: #d9e7c5;
 	font-weight: bold;
@@ -35,7 +40,7 @@ body {
 	color:#22391b; 
 }
 
-.card-img {
-	width: 75%;
+.card-img-lo {
+	width: 67%;
 	place-self: center;
 }
