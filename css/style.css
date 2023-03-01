@@ -1,0 +1,18 @@
+body {
+	background-color: #f4fcf5;
+	font-family: 'Noto Sans KR', sans-serif;	
+}
+
+.container-sm {
+	padding : 2rem;
+	background-color: #dbe6c9;
+}
+
+.contact {
+	text-decoration: none;
+	color: #6c995e;
+}
+
+.contact:hover {
+	color: #22391b;
+}
